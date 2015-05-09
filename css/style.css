@@ -1,0 +1,44 @@
+h1{
+	font-family: arial, sans-serif;
+	color: #444;
+	font-weight: bold;
+	font-size: 45px;
+}
+
+#buttonwrapper{
+	text-align: center;
+}
+
+button{
+	height: 29px;
+	border-radius: 2px;
+	font-weight: bold;
+	color: #444;
+	margin: 0 5px;
+	font-family: arial, sans-serif;
+	background: #F5F5F5;
+	border: 1px solid #DBDBDB;
+	padding: 0 5px;
+}
+
+#wrapper {
+	margin: 20px auto;
+	border: 1px solid black;
+	width: 960px;
+	height: 750px;
+	padding: 0;
+
+}
+
+.row{
+	background-color: white;
+	text-align: center;
+	padding: 0;
+}
+
+.box{
+	display:inline-block;
+	background-color: #004878;
+	outline: black solid medium;
+}
+
